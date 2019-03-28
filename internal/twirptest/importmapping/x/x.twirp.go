@@ -3,7 +3,7 @@
 
 /*
 Package x is a generated twirp stub package.
-This code was generated with github.com/twitchtv/twirp/protoc-gen-twirp v5.5.2.
+This code was generated with github.com/aspiration-labs/twirp/protoc-gen-twirp v5.5.2.
 
 It is generated from these files:
 	x/x.proto
@@ -19,10 +19,10 @@ import http "net/http"
 
 import jsonpb "github.com/golang/protobuf/jsonpb"
 import proto "github.com/golang/protobuf/proto"
-import twirp "github.com/twitchtv/twirp"
-import ctxsetters "github.com/twitchtv/twirp/ctxsetters"
+import twirp "github.com/aspiration-labs/twirp"
+import ctxsetters "github.com/aspiration-labs/twirp/ctxsetters"
 
-import twirp_internal_twirptest_importmapping_y "github.com/twitchtv/twirp/internal/twirptest/importmapping/y"
+import twirp_internal_twirptest_importmapping_y "github.com/aspiration-labs/twirp/internal/twirptest/importmapping/y"
 
 // Imports only used by utility functions:
 import io "io"

@@ -171,4 +171,4 @@ Example:
 }
 ```
 
-For more information, see https://github.com/twitchtv/twirp/wiki/Errors.
+For more information, see https://github.com/aspiration-labs/twirp/wiki/Errors.

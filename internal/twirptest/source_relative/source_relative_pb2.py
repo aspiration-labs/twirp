@@ -18,8 +18,8 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='source_relative.proto',
   package='twirp.internal.twirptest.source_relative',
   syntax='proto3',
-  serialized_options=_b('Z<github.com/twitchtv/twirp/internal/twirptest/source_relative'),
-  serialized_pb=_b('\n\x15source_relative.proto\x12(twirp.internal.twirptest.source_relative\"\x05\n\x03Msg2m\n\x03Svc\x12\x66\n\x06Method\x12-.twirp.internal.twirptest.source_relative.Msg\x1a-.twirp.internal.twirptest.source_relative.MsgB>Z<github.com/twitchtv/twirp/internal/twirptest/source_relativeb\x06proto3')
+  serialized_options=_b('Z<github.com/aspiration-labs/twirp/internal/twirptest/source_relative'),
+  serialized_pb=_b('\n\x15source_relative.proto\x12(twirp.internal.twirptest.source_relative\"\x05\n\x03Msg2m\n\x03Svc\x12\x66\n\x06Method\x12-.twirp.internal.twirptest.source_relative.Msg\x1a-.twirp.internal.twirptest.source_relative.MsgB>Z<github.com/aspiration-labs/twirp/internal/twirptest/source_relativeb\x06proto3')
 )
 
 

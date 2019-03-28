@@ -3,7 +3,7 @@
 
 /*
 Package importer is a generated twirp stub package.
-This code was generated with github.com/twitchtv/twirp/protoc-gen-twirp v5.5.2.
+This code was generated with github.com/aspiration-labs/twirp/protoc-gen-twirp v5.5.2.
 
 Test to make sure that importing other packages doesnt break
 
@@ -22,10 +22,10 @@ import http "net/http"
 
 import jsonpb "github.com/golang/protobuf/jsonpb"
 import proto "github.com/golang/protobuf/proto"
-import twirp "github.com/twitchtv/twirp"
-import ctxsetters "github.com/twitchtv/twirp/ctxsetters"
+import twirp "github.com/aspiration-labs/twirp"
+import ctxsetters "github.com/aspiration-labs/twirp/ctxsetters"
 
-import twirp_internal_twirptest_importable "github.com/twitchtv/twirp/internal/twirptest/importable"
+import twirp_internal_twirptest_importable "github.com/aspiration-labs/twirp/internal/twirptest/importable"
 
 // Imports only used by utility functions:
 import io "io"
